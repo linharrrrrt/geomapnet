@@ -46,7 +46,7 @@ MapNet uses a Conda environment that makes it easy to install all dependencies.
 
 3. Activate the environment: `conda activate mapnet_release`.
 
-5. `pip install imageio==2.6.1` `pip install visdom` `pip install transforms3d`
+5. `pip install opencv-python` `pip install visdom` `pip install transforms3d`
 
 4. Note that our code has been tested with PyTorch v0.4.1 (the environment.yml file should take care of installing the appropriate version).
 
